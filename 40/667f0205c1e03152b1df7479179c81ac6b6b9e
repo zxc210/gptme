@@ -1,0 +1,22 @@
+tests/test_util_clipboard_paste.py
+  s_b5c20e3244c28a::t_e69bb00ccab914 219-221,228,232,235,246
+  s_b5c20e3244c28a::t_132d6e41166e1d 294-323
+gptme/util/clipboard.py
+  s_b5c20e3244c28a::t_40ae72b1960b00 81-82,93-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "40667f0205c1e03152b1df7479179c81ac6b6b9e",
+  "prompts": {},
+  "sessions": {
+    "s_b5c20e3244c28a": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_6cdb6b8d-0fc0-4959-9a48-301a4f31a5a2",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
